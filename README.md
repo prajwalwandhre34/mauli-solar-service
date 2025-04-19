@@ -1,1 +1,1 @@
-# mauli-solar-service
+solar-service
